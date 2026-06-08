@@ -1,0 +1,11 @@
+faker
+streamlit
+python-dotenv
+pandas
+plotly
+watchdog
+ipykernel
+scikit-learn
+matplotlib
+seaborn
+tqdm

@@ -1,0 +1,16 @@
+bank_id,merchant,city,category,amount
+AXIS_BANK,Sami-Ramachandran,Delhi,luxury_jewelry,2372.4415467431445
+ICICI_BANK,MumbaiDirect LLC,Ahmedabad,luxury_jewelry,2446.5528576340275
+ICICI_BANK,VortexRT LLC,Bangalore,electronics,109214.58
+ICICI_BANK,BharatPay Inc,Ahmedabad,electronics,24407.84
+ICICI_BANK,"Buch, Mall and Mallick",Ahmedabad,luxury_jewelry,5835.2530724839435
+HDFC_BANK,ShadowIn LLC,Bangalore,electronics,20813.73
+AXIS_BANK,Raju Group,Bangalore,electronics,54181.06
+HDFC_BANK,Wire Transfer,Kolkata,transfer,3040.466180450335
+ICICI_BANK,BharatPay and Sons,Kolkata,electronics,65496.95
+HDFC_BANK,"Lala, Kara and Gaba",Mumbai,luxury_jewelry,3874.7023655801577
+HDFC_BANK,Wire Transfer,Chennai,transfer,3124.478902430535
+AXIS_BANK,VortexRT PLC,South Steven,electronics,5523.412387713624
+ICICI_BANK,Bhargava-Solanki,Delhi,luxury_jewelry,12148.901203525691
+HDFC_BANK,KolkataSecure Ltd,Hyderabad,electronics,20578.79
+ICICI_BANK,Wire Transfer,Delhi,transfer,1707.1977565260008

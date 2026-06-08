@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Large Datasets (GitHub limit is 100MB)
+data/fraudTrain.csv
+data/fraudTest.csv
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+final_presentation/
+paper/
+presentation/
+scope/
+scripts/
+
+# Project evaluation outputs & redundant files
+copy_of_train_test/
+thumbnail.html
+data/validation_results_*.csv
+data/user_history copy.csv
+
+data/final_pr_comparison.png
+data/final_roc_comparison.png

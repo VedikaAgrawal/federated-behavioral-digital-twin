@@ -1,0 +1,15 @@
+# Exclude virtual environments, large datasets, and cache files from Docker build context
+venv/
+.venv/
+env/
+ENV/
+data/fraudTrain.csv
+data/fraudTest.csv
+copy_of_train_test/
+thumbnail.html
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.git/
+.gitignore

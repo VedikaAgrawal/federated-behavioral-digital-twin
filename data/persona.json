@@ -1,0 +1,19 @@
+{
+    "user_id": "60624fcc-7166-4324-bd24-458f43684e8e",
+    "name": "Arjun Sharma",
+    "home_city": "Mumbai",
+    "home_country": "IN",
+    "home_lat": 19.076,
+    "home_lon": 72.8777,
+    "avg_spend": 4336.830702223211,
+    "preferred_categories": [
+        "healthcare",
+        "electronics",
+        "dining"
+    ],
+    "friends": [
+        "c5840cf0-8e86-4e1b-9dfb-6161913af4d7",
+        "ce3d844c-b04d-49dc-b627-185eae6a5d34",
+        "70d02875-6d46-4915-9a14-bd158a8cf54a"
+    ]
+}
