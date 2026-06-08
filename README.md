@@ -1,3 +1,12 @@
+---
+title: Federated Behavioral Digital Twin
+emoji: 🛡️
+colorFrom: indigo
+colorTo: blue
+sdk: docker
+pinned: false
+---
+
 # Digital Twin & Federated Fraud Detection System 🛡️
 
 A next-generation Credit Card Fraud Detection system that uses **Digital Twins** to model user behavior, **Markov Chains** for sequence modeling, and **Blockchain-based Federated Learning** for collaborative intelligence.
